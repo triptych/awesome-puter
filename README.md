@@ -10,6 +10,7 @@ A repository for awesome links around puter.js and puter.com
 * [Status](https://status.puter.com/) - Puter up-time stats
 * [Github](https://github.com/HeyPuter/) - Puter source
 * [Discord](https://discord.gg/PQcx7Teh8u) - Discord channel
+* [LinkedIn](https://www.linkedin.com/company/puter/) - LinkedIn 
 ### Tools
 
 ### Apps
