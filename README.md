@@ -15,4 +15,5 @@ A repository for awesome links around puter.js and puter.com
 
 ### Apps
 
+* [App Center](https://puter.com/app/app-center) - Discover new apps on puter
 * [4 Colors](https://puter.com/app/4-colors) - A vibrant and addictive card game
