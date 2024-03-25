@@ -17,3 +17,13 @@ A repository for awesome links around puter.js and puter.com
 
 * [App Center](https://puter.com/app/app-center) - Discover new apps on puter
 * [4 Colors](https://puter.com/app/4-colors) - A vibrant and addictive card game
+
+
+## #DoesItRunPuter
+
+- [Minecraft](https://twitter.com/HeyPuter/status/1771957571496092036)
+- [PlayStation 4](https://twitter.com/HeyPuter/status/1767978053014270059)
+- [Tesla Model S](https://twitter.com/HeyPuter/status/1767971178864587057)
+- [Skyworth TV](https://twitter.com/ericalexdube/status/1767983049277411564)
+- [Oculus Quest 2](https://twitter.com/HeyPuter/status/1768664081756754012)
+- Tesla Model 3
