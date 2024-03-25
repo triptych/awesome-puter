@@ -1,6 +1,12 @@
 # Awesome Puter
 A repository for awesome links around puter.js and puter.com
 
+## Jump to
+* [Websites](#websites)
+* [Tools](#tools)
+* [Apps](#apps)
+* [#DoesItRunPuter](#doesitrunputer)
+
 ## Contents
 
 ### Websites
