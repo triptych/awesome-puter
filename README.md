@@ -23,6 +23,7 @@ A repository for awesome links around puter.js and puter.com
 
 * [App Center](https://puter.com/app/app-center) - Discover new apps on puter
 * [4 Colors](https://puter.com/app/4-colors) - A vibrant and addictive card game
+* [Code with AI](https://puter.com/app/code-with-ai) - Create amazing apps with AI
 
 
 ## #DoesItRunPuter
