@@ -35,3 +35,14 @@ A repository for awesome links around puter.js and puter.com
 - [Skyworth TV](https://twitter.com/ericalexdube/status/1767983049277411564)
 - [Oculus Quest 2](https://twitter.com/HeyPuter/status/1768664081756754012)
 - Tesla Model 3
+
+### Videos
+
+- [Puter is the Internet OS - Changelog](https://www.youtube.com/watch?v=frwWs56imGU)
+- [puter.com: A new OS? - TechHeart](https://www.youtube.com/watch?v=E_jQ9qCaLqg)
+- [I can't believe this is real - Theo](https://www.youtube.com/watch?v=jYV1VDhw7E8)
+- The Dosyago Corporation
+  - [Web Browser on Puter](https://www.youtube.com/watch?v=gP-zn8sao_M)
+  - [Download Files with...](https://www.youtube.com/watch?v=jWVHgLXM7QE)
+- [Eric's Puter Videos (channel)](https://www.youtube.com/@EricsPuterVideos)
+
