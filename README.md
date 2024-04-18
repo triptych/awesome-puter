@@ -6,6 +6,7 @@ A repository for awesome links around puter.js and puter.com
 * [Tools](#tools)
 * [Apps](#apps)
 * [#DoesItRunPuter](#doesitrunputer)
+* [Videos](#videos)
 
 ## Contents
 
